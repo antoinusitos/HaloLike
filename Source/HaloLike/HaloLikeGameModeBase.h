@@ -13,5 +13,8 @@ UCLASS()
 class HALOLIKE_API AHaloLikeGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+
+public:
+	AHaloLikeGameModeBase();
 	
 };
